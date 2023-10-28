@@ -1,0 +1,12 @@
+body{
+    display: grid;
+    justify-content: center;
+    justify-content: space-around;
+    font-size: 18px;
+    font-family: monospace;
+}
+.content {
+    display: grid;
+    grid-template-columns: 200px;
+    gap: 10px;
+}
